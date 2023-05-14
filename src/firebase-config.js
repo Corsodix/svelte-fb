@@ -7,13 +7,12 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  apiKey: "AIzaSyCUS-TPGq89-jjX32rfwVlZXqjJtLr7fx8",
-  authDomain: "friendlychat-9f2cf.firebaseapp.com",
-  projectId: "friendlychat-9f2cf",
-  storageBucket: "friendlychat-9f2cf.appspot.com",
-  messagingSenderId: "753783110751",
-  appId: "1:753783110751:web:5a2434bdb97813a0b96fea",
-  measurementId: "G-4SJ5HTTD13"
+  apiKey: "AIzaSyB_IAgkUtcV_KbZtSRcB2chntOzIZObNCY",
+  authDomain: "svelte-fb-22986.firebaseapp.com",
+  projectId: "svelte-fb-22986",
+  storageBucket: "svelte-fb-22986.appspot.com",
+  messagingSenderId: "973478483796",
+  appId: "1:973478483796:web:5f29b967513db0e573dac1"
 };
 
 export function getFirebaseConfig() {
